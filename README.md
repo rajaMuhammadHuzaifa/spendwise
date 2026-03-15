@@ -2,7 +2,7 @@
 A full stack expense tracker web application.
 
 ## Live Demo
-🔗 [Click here to view the app](spendwise-by-huzaifa.up.railway.app)
+🔗 [spendwise-by-huzaifa.up.railway.app]
 
 ## Features
 - Add and delete expenses
